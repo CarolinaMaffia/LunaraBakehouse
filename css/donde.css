@@ -1,0 +1,114 @@
+.imgbanner {
+	height: 400px;
+	background-image: url(../img/ban5.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+
+
+}
+
+header h1  {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #fff;
+	margin-top: 200px;
+	font-size: 65px;
+	letter-spacing: 4px;
+	
+}
+
+header h2{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: white;
+	margin-top: -15px;	
+	font-size: 20px;	
+}
+
+
+.menu {
+	font-family: "Roboto Condensed";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    height: 100px;
+
+
+}
+
+.menu ul{
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-top: 40px;
+
+}
+.fa {
+	color: white;
+	}
+
+
+.menu ul li {
+	margin-left: 15px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.menu ul li a:hover {
+	color: #202020;
+}
+
+.border{
+	border-right: 1px;
+}
+.border h3{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: #202020;
+	margin-top: 80px;
+}
+
+.marg{
+	margin-bottom: 50px;
+
+}
+
+.map {
+	margin-top: 30px;
+	margin-bottom: 30px;	
+}
+
+.map h3{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: #202020;		
+	margin-bottom: 30px;
+
+}
+.ahre{
+	padding: 25px;
+}
+.imgdonde{
+margin-right: 85px;	
+}
+
+.ubi{
+	margin-right: 40px;
+	
+}
+
+
+/* FOOTER */
+footer{
+	padding: 20px;
+	background-color: #202020;
+	color: #fff;
+	height: 50px;
+	margin-bottom: -30px;
+}
