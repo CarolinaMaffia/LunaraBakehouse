@@ -1,6 +1,6 @@
 .imgbanner {
-	height: 400px;
-	background-image: url(../img/ban5.jpg);
+	height: 550px;
+	background-image: url(../img/cofi.jpeg);
 	background-size: cover;
 	background-position: center;
 	opacity: 0.9;
@@ -62,4 +62,67 @@ header h2{
 
 .menu ul li a:hover {
 	color: #202020;
+}
+
+.cont{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	font-size: 50px;
+	margin-top: 250px;
+}
+
+.cont2{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	font-size: 30px;
+	margin-left: 950px;
+}
+
+.form{
+	background-color: #F4F4F4;
+	padding-top: 50px;
+}
+
+label {
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	font-weight: lighter;
+}
+
+.form h3{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	margin-top: -25px;
+	margin-bottom: 20px;
+}
+
+.form p{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: normal;
+	margin-bottom: 25px;
+}
+
+.ave {
+	margin-left: 121px;
+}
+
+.btnenv{
+	margin-left: 300px;
+	margin-top: 15px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: black;
+}
+
+/* FOOTER */
+footer{
+	padding: 20px;
+	background-color: #202020;
+	color: #fff;
+	height: 50px;
+	margin-bottom: -30px;
 }

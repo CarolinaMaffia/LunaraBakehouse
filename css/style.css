@@ -2,7 +2,7 @@
 	height: 500px;
 	background-image: url(../img/ban2.jpg);
 	background-size: cover;
-	background-position: top ;
+	background-position: top;
 	opacity: 0.9;
 	background-repeat: no-repeat;
 
@@ -107,15 +107,20 @@ header h2{
 	background-image: url(../img/macarons.jpg);
 	background-position: center;
 	opacity: 0.9;
-}
+	
 
+
+
+}
 .slay h2{
 	font-family: 'Roboto Condensed', sans-serif;
 	letter-spacing: 4px;
 	color: black;
 	font-size: 50px;
 	margin-top: 180px;
-}
+	
+  
+    }
 
 .slay h3{
 	font-family: 'Roboto Condensed', sans-serif;
@@ -125,6 +130,92 @@ header h2{
 	margin-left: 600px;
 
 }
+
+.slay2 {
+	background-image: url(../img/cofi.jpeg);
+	background-size: cover;
+}
+/******* MENÚ *******/
+
+.menu2{
+	
+	height: 560px;
+
+
+}
+
+.fondomen{
+background-color: #f4f4f4 ;
+}
+
+.fondomen h2{
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	margin-bottom: 20px;
+
+}
+
+.fondomen p{
+		font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: normal;
+	margin-bottom: 25px;
+}
+
+.fondomen h3{
+
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	font-weight: lighter;
+}
+
+/********* FORMMMM **************/
+
+.form{
+	background-color: #F4F4F4;
+	padding-top: 50px;
+}
+.farm{
+	
+	height: 470px;
+	margin-left: -100x;
+	background-position: center;
+	margin-bottom: -5px;
+	background-image: url(../img/);
+}
+
+label {
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
+	color: black;
+	font-weight: lighter;
+}
+
+
+.form h3{
+	margin-top: -20px;
+}
+.form p{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: normal;
+	margin-bottom: 25px;
+}
+
+.ave {
+	margin-left: 121px;
+}
+
+.btnenv{
+	margin-left: 430px;
+	margin-top: 15px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: black;
+}
+
+
 
 /*
 .slay h2{
@@ -136,9 +227,34 @@ font-family: 'Roboto Condensed', sans-serif;
 	font-weight: bolder;
 	margin-bottom: 25px;
 }*/
+
+/************ FOOTER **********/
 footer{
-	padding: 20px;
-	background-color: #202020;
+	
+	background-color: #434136;	
 	color: #fff;
-	height: 50px;
+	height: 80px;	
+}
+
+footer img {
+	height: 65px;
+	width: 65 	;
+	margin-left: 240px;
+	margin-top: 10px;
+}
+
+
+footer .marg {
+	margin-top: 35px;
+
+}
+
+.linkgit {
+	text-decoration: none;
+	color: white;
+}
+
+.linkgit:hover{
+	text-decoration: none;
+	color: #F15425;
 }
