@@ -289,7 +289,7 @@ footer .marg {
 }
 
 .btnEnv{
-	margin-left: 150px; 
+	margin-left: 130px; 
 }
 
 .latizq{
@@ -300,6 +300,9 @@ footer .marg {
 	display: none;
 }
 
+.margTop{
+	margin-top: 10px;
+}
 
 footer{
 	height: 100px;
