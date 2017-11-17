@@ -270,6 +270,9 @@ footer .marg {
 	margin-bottom: 40px;
 }
 
+.farm{
+	height: 600px;
+}
 .img1, .img2{
 	display: none;
 }
