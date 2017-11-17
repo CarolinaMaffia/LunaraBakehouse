@@ -208,7 +208,7 @@ label {
 	margin-left: 121px;
 }
 
-.btnenv{
+.btnEnv{
 	margin-left: 430px;
 	margin-top: 15px;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -257,4 +257,60 @@ footer .marg {
 .linkgit:hover{
 	text-decoration: none;
 	color: #F15425;
+}
+
+@media (max-width: 500px) {
+
+.menu{
+	display: none;
+}
+
+.quienes{
+	margin-top: -60px;
+	margin-bottom: 40px;
+}
+
+.img1, .img2{
+	display: none;
+}
+
+.quot {
+	display: none;
+}
+
+.slayOne{
+	background-image: url(../img/slayOne.jpg);
+	opacity: 1;
+	background-position: bottom;
+}
+
+.ave{
+	margin-left: -20px;
+}
+
+.btnEnv{
+	margin-left: 150px; 
+}
+
+.latizq{
+	display: none;
+}
+
+.logo{
+	display: none;
+}
+
+footer{
+	height: 100px;
+}
+
+footer .marg{
+	margin-top: 20px;
+}
+
+footer .margTwo {
+margin-top: 40px;
+}
+
+
 }
