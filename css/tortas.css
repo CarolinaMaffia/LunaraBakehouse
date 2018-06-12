@@ -79,3 +79,28 @@ font-family: 'Roboto Condensed', sans-serif;
 .marginTortas{
 	margin-top: 25px;
 }
+
+/* footer */
+
+footer{
+	
+	background-color: #333;	
+	color: #fff;
+	height: 50px;	
+}
+
+
+footer .marg {
+	margin-top: 20px;
+
+}
+
+.linkgit {
+	text-decoration: none;
+	color: white;
+}
+
+.linkgit:hover{
+	text-decoration: none;
+	color: #F15425;
+}
